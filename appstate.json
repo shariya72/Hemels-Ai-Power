@@ -1,7 +1,34 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+  {
+    "key": "sb",
+    "value": "kLZZzGShn10FZnAWy4N1",
+    "domain": ".facebook.com",
+    "hostOnly": false,
+    "creation": "2025-04-07T12:04:56",
+    "lastAccessed": "2025-04-07T12:04:56"
+  },
+  {
+    "key": "datr",
+    "value": "xA1Y2Z3ExampleCookieValue",
+    "domain": ".facebook.com",
+    "hostOnly": false,
+    "creation": "2025-04-07T12:05:00",
+    "lastAccessed": "2025-04-07T12:05:00"
+  },
+  {
+    "key": "c_user",
+    "value": "1234567890",
+    "domain": ".facebook.com",
+    "hostOnly": false,
+    "creation": "2025-04-07T12:05:10",
+    "lastAccessed": "2025-04-07T12:05:10"
+  },
+  {
+    "key": "xs",
+    "value": "example-xs-token-value",
+    "domain": ".facebook.com",
+    "hostOnly": false,
+    "creation": "2025-04-07T12:05:15",
+    "lastAccessed": "2025-04-07T12:05:15"
+  }
+]
